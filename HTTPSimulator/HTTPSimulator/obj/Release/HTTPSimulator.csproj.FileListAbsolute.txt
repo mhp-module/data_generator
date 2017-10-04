@@ -1,0 +1,9 @@
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\bin\Release\HTTPSimulator.exe.config
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\bin\Release\HTTPSimulator.exe
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\bin\Release\HTTPSimulator.pdb
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\bin\Release\fastjson.dll
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\obj\Release\HTTPSimulator.Form1.resources
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\obj\Release\HTTPSimulator.Properties.Resources.resources
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\obj\Release\HTTPSimulator.csproj.GenerateResource.Cache
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\obj\Release\HTTPSimulator.exe
+c:\users\elrha\documents\visual studio 2017\Projects\HTTPSimulator\HTTPSimulator\obj\Release\HTTPSimulator.pdb
